@@ -54,4 +54,8 @@ So that I can organize and plan my business
 ## Contributions
 1. ![GitHub license](https://github.com/bokigolic/employee_tracker/blob/main/LICENSE)
 2. No front end files required.
+<<<<<<< HEAD
 3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+=======
+3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+>>>>>>> 2676aec3c1502462b625d9968aaf215c6ea8ac6d
